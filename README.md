@@ -1,1 +1,1 @@
-My first readme
+Full Stack SoftWare Engineer (NUEL).>> ALX
